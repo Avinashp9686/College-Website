@@ -1,0 +1,29 @@
+.container1{
+    border: 5px solid #666;
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 960px;
+}
+table,td,tr,th{
+	border: 2px solid ;
+	width: 950px;
+
+}
+th{
+	text-align: center;
+	background-color: yellow;
+}
+.logo4{
+    float: right;
+    height: 400px;
+    width: 230px;
+    padding-right: 100px;
+    margin-top: 60px;
+}
+.logo5{
+    float: right;
+    height: 700px;
+    width: 250px;
+    padding-top: 200px;
+    padding-right:50px;
+  }

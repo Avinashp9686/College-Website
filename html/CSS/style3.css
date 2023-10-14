@@ -1,0 +1,45 @@
+.cont2{
+    border: 2px solid rgb(244, 239, 239);
+    width: auto;
+    background-color: rgb(235, 227, 227);
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.cont3{
+    border: 2px solid #666;
+	background-color: pink;
+    margin-right: 50px;
+    width: 550px;
+    height: 550px;
+    margin-top: 10px;
+    float: right;
+}
+.apply{
+    width: 500px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+}
+h2{
+    text-align: center;
+}
+#name1{
+    margin-left: 30px;
+}
+#name2{
+    margin-left:50px;
+    width: 200px;
+}
+#contact{
+    margin-left: 30px;
+}
+#choose{
+    margin-left:50px;
+    width: 200px;
+}
+#prgm{
+    margin-left: 30px;
+    width: 190px;
+}
+#w3{
+    margin-left: 30px;
+}

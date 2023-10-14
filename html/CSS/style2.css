@@ -1,0 +1,32 @@
+table,td,th{
+	border: 2px solid black;
+	width: 950px;
+
+}
+table{
+	width: 100%;
+}
+.logo6{
+    height: 400px;
+  width: 1310px;
+  padding-top: 10px;
+  padding-right: 50px;
+}
+.table1{
+    border: 1px solid ;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.gallery img{
+	width: 24%;
+	border: 3px solid black;
+
+}
+.cont{
+	border: 5px solid #666;
+	padding-left: 30px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
